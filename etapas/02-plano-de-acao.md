@@ -27,9 +27,9 @@ Dentro de cada chamado, foram criadas **tarefas detalhadas** representando as a�
 
 | Tarefa | Responsável |
 |--------|-------------|
-| Reproduzir e documentar os erros relatados | Amanda Erco |
-| Analisar logs de erro do sistema | Jhonatas Barbosa |
-| Corrigir código responsável pelo registro de entradas | Amanda Erco |
+| Reproduzir e documentar os erros relatados | Amanda Dantas |
+| Analisar logs de erro do sistema | Jonathas Barbosa |
+| Corrigir código responsável pelo registro de entradas | Amanda Dantas |
 
 ---
 
@@ -38,8 +38,8 @@ Dentro de cada chamado, foram criadas **tarefas detalhadas** representando as a�
 | Tarefa | Responsável |
 |--------|-------------|
 | Mapear navegadores e SOs afetados | Amanda Dantas |
-| Atualizar bibliotecas front-end desatualizadas | Amanda Erco |
-| Testar em diferentes ambientes (Chrome, Edge, Firefox, WinT1) | Jhonatas Barbosa |
+| Atualizar bibliotecas front-end desatualizadas | Amanda Dantas |
+| Testar em diferentes ambientes (Chrome, Edge, Firefox, WinT1) | Jonathas Barbosa |
 
 ---
 
@@ -49,7 +49,7 @@ Dentro de cada chamado, foram criadas **tarefas detalhadas** representando as a�
 |--------|-------------|
 | Realizar auditoria de segurança no sistema atual | Matheus Ryan |
 | Pesquisar e selecionar bibliotecas de segurança atualizadas | Amanda Dantas |
-| Implementar criptografia nos dados sensíveis | Jhonatas Barbosa |
+| Implementar criptografia nos dados sensíveis | Jonathas Barbosa |
 
 ---
 
@@ -57,9 +57,9 @@ Dentro de cada chamado, foram criadas **tarefas detalhadas** representando as a�
 
 | Tarefa | Responsável |
 |--------|-------------|
-| Levantar requisitos da integração com o PDV | Amanda Erco |
-| Estudar API do sistema PDV disponível | Amanda Erco |
-| Desenvolver módulo de integração | Jhonatas Barbosa |
+| Levantar requisitos da integração com o PDV | AAmanda Dantas |
+| Estudar API do sistema PDV disponível | Amanda Dantas |
+| Desenvolver módulo de integração | Jonathas Barbosa |
 
 ---
 
