@@ -20,7 +20,7 @@ O SGI apresentava **cinco problemas críticos** que foram tratados como chamados
 | Diego José Barbosa da Cunha | — |
 | Matheus Ryan Alves Santos | — |
 
-📅 Data: 15/05/2026 · SENAI CIMATEC · Técnico em Desenvolvimento de Sistemas
+Data: 15/05/2026 · SENAI CIMATEC · Técnico em Desenvolvimento de Sistemas
 
 ---
 
