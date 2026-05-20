@@ -1,10 +1,10 @@
-# 🛠️ Manutenção de Software com GLPI
+# Manutenção de Software com GLPI
 
 > Roteiro de prática desenvolvido para a disciplina de **Manutenção de Sistemas** do curso Técnico em Desenvolvimento de Sistemas — SENAI CIMATEC
 
 ---
 
-## 📋 Sobre o Projeto
+##  Sobre o Projeto
 
 Este repositório documenta o processo completo de manutenção do **Sistema de Gestão de Inventário (SGI)** de uma rede de lojas de materiais de construção, utilizando o **GLPI** (Gestionnaire Libre de Parc Informatique) como ferramenta central de gerenciamento.
 
@@ -12,7 +12,7 @@ O SGI apresentava **cinco problemas críticos** que foram tratados como chamados
 
 ---
 
-## 👥 Autores
+## Autores
 
 | Nome | GitHub |
 |------|--------|
@@ -20,11 +20,11 @@ O SGI apresentava **cinco problemas críticos** que foram tratados como chamados
 | Diego José Barbosa da Cunha | — |
 | Matheus Ryan Alves Santos | — |
 
-📅 Data: 15/05/2026 · 🏫 SENAI CIMATEC · 📚 Técnico em Desenvolvimento de Sistemas
+📅 Data: 15/05/2026 · SENAI CIMATEC · Técnico em Desenvolvimento de Sistemas
 
 ---
 
-## ⚠️ Problemas Identificados no SGI
+## Problemas Identificados no SGI
 
 | # | Problema | Categoria | Prioridade |
 |---|----------|-----------|------------|
@@ -36,7 +36,7 @@ O SGI apresentava **cinco problemas críticos** que foram tratados como chamados
 
 ---
 
-## 🗂️ Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 glpi-manutencao-sgi/
@@ -56,7 +56,7 @@ glpi-manutencao-sgi/
 
 ---
 
-## 🔄 Fluxo do Processo de Manutenção
+## Fluxo do Processo de Manutenção
 
 ```
 ┌─────────────────┐
@@ -83,7 +83,7 @@ glpi-manutencao-sgi/
 
 ---
 
-## 🧰 Ferramenta Utilizada
+## Ferramenta Utilizada
 
 **[GLPI — Gestionnaire Libre de Parc Informatique](https://glpi-project.org/)**
 
@@ -96,7 +96,7 @@ Ferramenta open source de gestão de serviços de TI, utilizada para:
 
 ---
 
-## 📊 Cronograma Geral do Projeto
+## Cronograma Geral do Projeto
 
 | Etapa | Período | Chamados |
 |-------|---------|----------|
@@ -110,18 +110,18 @@ Ferramenta open source de gestão de serviços de TI, utilizada para:
 
 ---
 
-## ✅ Benefícios do GLPI Demonstrados
+## Benefícios do GLPI Demonstrados
 
 | Aspecto | Benefício |
 |---------|-----------|
-| 📁 Organização | Centralização de chamados, tarefas e comunicações em um único sistema |
-| 🎯 Priorização | Classificação por prioridade garante foco nos problemas de maior impacto |
-| 💬 Comunicação | Acompanhamentos no chamado eliminam dispersão em e-mails e WhatsApp |
-| 📈 Decisões | Relatórios transformam dados operacionais em informação gerencial |
-| 🔍 Rastreabilidade | Histórico completo serve como evidência e base para melhorias futuras |
+| Organização | Centralização de chamados, tarefas e comunicações em um único sistema |
+| Priorização | Classificação por prioridade garante foco nos problemas de maior impacto |
+| Comunicação | Acompanhamentos no chamado eliminam dispersão em e-mails e WhatsApp |
+| Decisões | Relatórios transformam dados operacionais em informação gerencial |
+| Rastreabilidade | Histórico completo serve como evidência e base para melhorias futuras |
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto é de caráter educacional. Desenvolvido como atividade prática para o SENAI CIMATEC — 2026.
