@@ -1,3 +1,4 @@
 # Documentos
 
-Coloque aqui o PDF do roteiro original e os prints do GLPI organizados por etapa.
+[roteiro-pratica.pdf](https://github.com/user-attachments/files/28057602/roteiro-pratica.pdf)
+
