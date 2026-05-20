@@ -57,7 +57,7 @@ Dentro de cada chamado, foram criadas **tarefas detalhadas** representando as a�
 
 | Tarefa | Responsável |
 |--------|-------------|
-| Levantar requisitos da integração com o PDV | AAmanda Dantas |
+| Levantar requisitos da integração com o PDV | Amanda Dantas |
 | Estudar API do sistema PDV disponível | Amanda Dantas |
 | Desenvolver módulo de integração | Jonathas Barbosa |
 
